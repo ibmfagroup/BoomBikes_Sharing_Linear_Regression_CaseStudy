@@ -15,14 +15,14 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Conclusions
 - Based on the final model, top 3 features contributing are
--- temp, 0.4089
--- weathersit, -0.2936(Light Snow: -0.2353,Mist: -0.0583)
--- Year, 0.2332
+  - temp, 0.4089
+  - weathersit, -0.2936(Light Snow: -0.2353,Mist: -0.0583)
+  - Year, 0.2332
 - Final R-Squared and adjusted R-Squared
--- R-Squared for Training data: 0.82734
--- Adjusted R-Squared for Train dataset:  0.82423
--- R-Squared for Test data: 0.81136
--- Adjusted R-Squared for Test dataset:  0.80324
+  - R-Squared for Training data: 0.82734
+  - Adjusted R-Squared for Train dataset:  0.82423
+  - R-Squared for Test data: 0.81136
+  - Adjusted R-Squared for Test dataset:  0.80324
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
